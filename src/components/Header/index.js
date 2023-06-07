@@ -32,7 +32,7 @@ export default function Header({ name }) {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: "#ff7200",
+        backgroundColor: "#ec7000",
         paddingTop: statusHeight,
         flexDirection: "row",
         paddingStart: 15,
